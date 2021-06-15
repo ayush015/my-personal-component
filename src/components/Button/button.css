@@ -1,11 +1,23 @@
-.button {
+.btn {
   height: 40px;
   width: 100px;
   border-radius: 10px;
   cursor: pointer;
   line-height: 1;
 }
-.button-primary {
+.btn-primary {
   color: #fff;
-  background-color: #1ea7fd;
+  background-color: #126df6;
+}
+.btn-secondary {
+  color: #fff;
+  background-color: #6c757d;
+}
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+}
+.btn-success {
+  color: #fff;
+  background-color: #198754;
 }

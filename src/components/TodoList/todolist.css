@@ -1,0 +1,28 @@
+.box {
+  bottom: 25%;
+  height: 100px;
+  width: 500px;
+  background-color: #f5f5f5;
+  padding: 20px 15px;
+  margin: 10px 5px;
+  border-radius: 20px;
+  border: 1px solid #000;
+}
+.display-text {
+  display: flex;
+  align-items: center;
+  position: relative;
+  bottom: 25%;
+}
+.display-text label {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.display-text h3 {
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+.display-text p {
+  font-size: 1.2rem;
+  padding-left: 10px;
+}
