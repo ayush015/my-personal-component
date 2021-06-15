@@ -1,0 +1,11 @@
+.button {
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  line-height: 1;
+}
+.button-primary {
+  color: #fff;
+  background-color: #1ea7fd;
+}
